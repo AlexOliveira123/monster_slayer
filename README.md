@@ -1,2 +1,2 @@
 # monster_slayer
-An game to practice framework Vue.js
+A game to practice framework Vue.js
